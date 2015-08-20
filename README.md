@@ -1,4 +1,7 @@
 # goisroot
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goisroot)
+
 Check if the process is running as root user, eg. started with sudo
 
 ### How to install
