@@ -1,6 +1,9 @@
 # goisroot
 
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goisroot)
+[![Build Status](https://travis-ci.org/shamsher31/goisroot.svg)](https://travis-ci.org/shamsher31/goisroot)
+[![GitHub release](http://img.shields.io/github/release/shamsher31/goisroot.svg?style=flat-square)](release)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](license)
 
 Check if the process is running as root user, eg. started with sudo
 
